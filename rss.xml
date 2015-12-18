@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[pharrell]]></title>
         <description><![CDATA[pharrell]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pharrell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 00:03:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 18 Dec 2015 00:16:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pharrell/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/37605585-5b60-490a-8688-08c7057bf37c.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/pharrell/fffcbbb4-e195-4ea9-91e2-7be70bd85a32/index.html</link>
+            <guid isPermaLink="false">fffcbbb4-e195-4ea9-91e2-7be70bd85a32</guid>
+            <pubDate>Fri, 18 Dec 2015 00:16:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Story of Many Songs (Book 1: Love)]]></title>
-            <description><![CDATA[<article><h1>A Story of Many Songs (Book 1: Love)</h1><p>I had a dream of a boy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f62d85c1972163dc0e1532f9f33a5fa639eedce7.jpg"></article>]]></description>
-            <link>undefineda-story-of-many-songs-book-1-love/index.html</link>
+            <description><![CDATA[<article><h1>A Story of Many Songs (Book 1: Love)</h1><p>I had a dream of a boy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/79bffea3fc84aa67dd0cdb6644f6fd2b34186c56.jpg"></article>]]></description>
+            <link>https://thegrid.ai/pharrell/a-story-of-many-songs-book-1-love/index.html</link>
             <guid isPermaLink="false">b5e16b5d-b78a-4053-b678-4f98be122144</guid>
             <pubDate>Fri, 18 Dec 2015 00:03:56 GMT</pubDate>
         </item>
