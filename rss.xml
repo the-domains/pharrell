@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[pharrell]]></title>
+        <description><![CDATA[pharrell]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 18 Dec 2015 00:03:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Story of Many Songs (Book 1: Love)]]></title>
+            <description><![CDATA[<article><h1>A Story of Many Songs (Book 1: Love)</h1><p>I had a dream of a boy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f62d85c1972163dc0e1532f9f33a5fa639eedce7.jpg"></article>]]></description>
+            <link>undefineda-story-of-many-songs-book-1-love/index.html</link>
+            <guid isPermaLink="false">b5e16b5d-b78a-4053-b678-4f98be122144</guid>
+            <pubDate>Fri, 18 Dec 2015 00:03:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
