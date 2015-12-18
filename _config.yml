@@ -1,6 +1,6 @@
 name: pharrell
 favicon: null
-layout_spectrum: 0.90152
+layout_spectrum: 0.00152
 typography_spectrum: 0.25135
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#000000'
-    - '#c8c8d2'
-    - '#708482'
-    - '#5c5461'
+    - '#1c151c'
+    - '#fcfbcc'
+    - '#1b529b'
+    - '#fbb70d'
+    - '#94cdd4'
   brandStrength: 0.5
   lightness: 0.375
   saturation: 0
