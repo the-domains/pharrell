@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-18T01:17:49.300Z'
-dateModified: '2015-12-18T01:17:43.011Z'
+datePublished: '2015-12-18T01:19:57.763Z'
+dateModified: '2015-12-18T01:19:47.185Z'
 title: 'A Story of Many Songs (Book 1: Love)'
 author: []
 sourcePath: _posts/2015-12-18-a-story-of-many-songs-book-1-love.md
