@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-18T00:03:56.322Z'
-dateModified: '2015-12-18T00:01:02.987Z'
+datePublished: '2015-12-18T00:22:24.171Z'
+dateModified: '2015-12-18T00:18:33.554Z'
 title: 'A Story of Many Songs (Book 1: Love)'
 author: []
+sourcePath: _posts/2015-12-18-a-story-of-many-songs-book-1-love.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-18-a-story-of-many-songs-book-1-love.md
-published: true
 url: a-story-of-many-songs-book-1-love/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3422686f-df7d-430e-8b70-741e0b63b52e.JPG)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/79bffea3fc84aa67dd0cdb6644f6fd2b34186c56.jpg)
 
 I had a dream of a boy.
 
