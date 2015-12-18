@@ -8,6 +8,13 @@
         <atom:link href="https://thegrid.ai/pharrell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Oceans]]></title>
+            <description><![CDATA[<article><h1>Oceans</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61b480781bb4622ccecae662cd765f582f1572b3.jpg"></article>]]></description>
+            <link>https://thegrid.ai/pharrell/oceans/index.html</link>
+            <guid isPermaLink="false">dec7d51a-b872-4205-b98e-f36ccb3ff80c</guid>
+            <pubDate>Fri, 18 Dec 2015 00:43:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Oceans]]></title>
             <description><![CDATA[<article><h1>Oceans</h1><p>This book is a dream. Read it like a dream</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ff696b59acd750da636e6e4381568140e5bfa67.jpg"></article>]]></description>
             <link>https://thegrid.ai/pharrell/oceans/index.html</link>
             <guid isPermaLink="false">d8b40490-337d-4f85-a9ac-269a079589b9</guid>
