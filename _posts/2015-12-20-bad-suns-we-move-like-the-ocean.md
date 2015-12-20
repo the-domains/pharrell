@@ -1,9 +1,14 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: en
-starred: false
+author:
+  - name: BadSunsVEVO
+    url: 'https://www.youtube.com/user/BadSunsVEVO'
+    avatar: {}
+related: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 keywords:
   - duration
   - suns
@@ -16,13 +21,7 @@ keywords:
   - audio
   - ocean
 description: 'Music video by Bad Suns performing We Move Like The Ocean. (C) 2015 Vagrant http://www.vevo.com/watch/USVR91536301'
-datePublished: '2015-12-20T09:27:42.049Z'
-dateModified: '2015-12-20T09:26:56.143Z'
-author:
-  - name: BadSunsVEVO
-    url: 'https://www.youtube.com/user/BadSunsVEVO'
-    avatar: {}
-related: []
+inLanguage: en
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=k1S0UzfALNw&feature=applinks'
     type: ios
@@ -34,20 +33,19 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=k1S0UzfALNw&feature=applinks'
     type: web
+isBasedOnUrl: 'https://www.youtube.com/watch?v=k1S0UzfALNw'
 title: Bad Suns - We Move Like The Ocean
+datePublished: '2015-12-20T09:32:07.533Z'
+dateModified: '2015-12-20T09:31:55.559Z'
+inFeed: true
+hasPage: false
+inNav: false
+starred: true
 authors: []
-publisher:
-  name: YouTube
-  domain: www.youtube.com
-  url: 'https://www.youtube.com/'
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 sourcePath: _posts/2015-12-20-bad-suns-we-move-like-the-ocean.md
 published: true
-url: bad-suns-we-move-like-the-ocean/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/05a53ee9-7fc2-4dba-b771-66a659160203.jpg)
-
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fk1S0UzfALNw%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dk1S0UzfALNw&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fk1S0UzfALNw%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
