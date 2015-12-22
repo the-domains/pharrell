@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://medium.com'
   name: Medium
-  favicon: 'https://cdn-static-1.medium.com/_/fp/icons/favicon-new.TAS6uQ-Y7kcKgi0xjcYHXw.ico'
   domain: thsppl.com
+  url: 'https://medium.com'
+  favicon: 'https://cdn-static-1.medium.com/_/fp/icons/favicon-new.TAS6uQ-Y7kcKgi0xjcYHXw.ico'
 keywords:
   - black
   - grade
@@ -36,13 +36,15 @@ app_links:
     type: web
 isBasedOnUrl: 'https://thsppl.com/why-i-m-absolutely-an-angry-black-woman-2cf74c95828#.m13tzaduf'
 title: "Why I'm Absolutely an Angry Black Woman - THOSE PEOPLE"
-datePublished: '2015-12-22T03:03:34.765Z'
-dateModified: '2015-12-22T03:02:12.942Z'
+datePublished: '2015-12-22T03:04:30.240Z'
+dateModified: '2015-12-22T03:04:23.669Z'
 sourcePath: _posts/2015-12-22-why-im-absolutely-an-angry-black-woman-those-people.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
