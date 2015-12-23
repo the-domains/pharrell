@@ -4,7 +4,7 @@
         <description><![CDATA[the blacker the berry]]></description>
         <link>https://thegrid.ai/pharrell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 03:43:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Dec 2015 23:44:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pharrell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Why I'm Absolutely an Angry Black Woman - THOSE PEOPLE]]></title>
@@ -28,15 +28,22 @@
             <pubDate>Sun, 20 Dec 2015 09:34:41 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Photo by Stephanie Ecate | Unsplash]]></title>
+            <description><![CDATA[<article><h1>Photo by Stephanie Ecate | Unsplash</h1><p>Do-whatever-you-want high-resolution photo from Stephanie Ecate on Unsplash.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ee9e0db21351ae4557d5db27bfb7ede5484842b.jpg"></article>]]></description>
+            <link>https://unsplash.com/photos/YDODsxDkKfY</link>
+            <guid isPermaLink="false">a8e316ae-3b6b-403a-8a80-83878e58d0fa</guid>
+            <pubDate>Wed, 23 Dec 2015 23:44:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Melanin on melanin ❤️ #igers_philly]]></title>
-            <description><![CDATA[<article><h1>Melanin on melanin ❤️ #igers_philly</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd6b5a18009f5b7db428d04239ad798ab70ce495.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Melanin on melanin ❤️ #igers_philly</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d2e8abe5e13cc2b860e031bc59b983d633d5c012.jpg"></article>]]></description>
             <link>https://www.instagram.com/p/6I5449I3Cg/?taken-by=yabisyab</link>
             <guid isPermaLink="false">5a874d8f-a3fe-477b-9b47-df025fdec8d5</guid>
             <pubDate>Tue, 22 Dec 2015 03:42:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Testament of a dream]]></title>
-            <description><![CDATA[<article><h1>Testament of a dream</h1><p>#igers_philly_street</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a423f4c7405d33fca76e420b71c67a32a587c04.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Testament of a dream</h1><p>Reminds me of my brother</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/782ad7daec018f43729ebda01e8be8910f219c7d.jpg"></article>]]></description>
             <link>https://www.instagram.com/p/5uVVMOo3LZ/?taken-by=yabisyab</link>
             <guid isPermaLink="false">3dd0b212-b81d-4ef5-953e-3894cf2ecade</guid>
             <pubDate>Tue, 22 Dec 2015 03:42:37 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.goodreads.com/book/show/25397424-a-story-of-many-songs</link>
             <guid isPermaLink="false">0473ad98-cf8d-4bca-8e59-1adce7b250c3</guid>
             <pubDate>Tue, 22 Dec 2015 03:04:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Story of Many Songs (Book 1: Love)]]></title>
-            <description><![CDATA[<article><h1>A Story of Many Songs (Book 1: Love)</h1><p>I had a dream of a boy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/38e261f3e73198c669911887ba161af6b9361187.jpg"></article>]]></description>
-            <link>https://thegrid.ai/pharrell/a-story-of-many-songs-book-1-love/index.html</link>
-            <guid isPermaLink="false">b5e16b5d-b78a-4053-b678-4f98be122144</guid>
-            <pubDate>Fri, 18 Dec 2015 01:19:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
